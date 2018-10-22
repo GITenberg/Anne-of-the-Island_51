@@ -11,6 +11,7 @@ Title: Anne Of The Island
 Author: Lucy Maud Montgomery
 
 Release Date: March 7, 2006 [EBook #51]
+Last updated: November 23, 2012
 
 Language: English
 
@@ -70,7 +71,7 @@ by Lucy Maud Montgomery
      XV      A Dream Turned Upside Down . . . . . . . . . . . . .194
      XVI     Adjusted Relationships . . . . . . . . . . . . . . .202
      XVII    A Letter from Davy . . . . . . . . . . . . . . . . .219
-     XVIII   Miss Josepine Remembers the Anne-girl. . . . . . . .225
+     XVIII   Miss Josephine Remembers the Anne-girl . . . . . . .225
      XIX     An Interlude . . . . . . . . . . . . . . . . . . . .234
      XX      Gilbert Speaks . . . . . . . . . . . . . . . . . . .240
      XXI     Roses of Yesterday . . . . . . . . . . . . . . . . .249
@@ -4797,7 +4798,7 @@ Heres hers. x.
 
 Chapter XVIII
 
-Miss Josepine Remembers the Anne-girl
+Miss Josephine Remembers the Anne-girl
 
 
 When Christmas holidays came the girls of Patty's Place scattered to
